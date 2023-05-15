@@ -15,3 +15,20 @@ C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\obj\Debug
 C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
 C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Professor\Documents\prof. Jefferson\TADS\POO Final\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CopyComplete
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CopyComplete
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
