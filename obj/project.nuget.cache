@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hAbYTxL6JcD5F5ud72KS9e5oa71FU5bb4SnQNoAdynsuxfKoh/WdJvFZRleP7C+L9ga6klA1ehHxuDzzgvo6ow==",
+  "dgSpecHash": "wU/fKWHWXYnGfxmoFi9NO2Zo84UkWwm0YJ0juxSGQDeyZzsD1gewUX/bhLwgTwdT3zhON0c1+FJ7G9j4kHprWQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\POO\\CSharp\\Biblioteca_Aberto\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 7 - Software Biblioteca\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\IFPR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\jeffj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jeffj\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\jeffj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\jeffj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\jeffj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

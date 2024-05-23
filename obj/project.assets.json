@@ -55,26 +55,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IFPR\\.nuget\\packages\\": {}
+    "C:\\Users\\jeffj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\POO\\CSharp\\Biblioteca_Aberto\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 7 - Software Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\Project\\POO\\CSharp\\Biblioteca_Aberto\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\IFPR\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\POO\\CSharp\\Biblioteca_Aberto\\Biblioteca\\obj\\",
+      "projectPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 7 - Software Biblioteca\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\jeffj\\.nuget\\packages\\",
+      "outputPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 7 - Software Biblioteca\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IFPR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jeffj\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -109,12 +107,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

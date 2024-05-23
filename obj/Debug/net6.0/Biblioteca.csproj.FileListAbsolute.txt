@@ -32,3 +32,21 @@ D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\refint\Bibli
 D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
 D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
 D:\Project\POO\CSharp\Biblioteca_Aberto\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.sourcelink.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CopyComplete
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 7 - Software Biblioteca\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
